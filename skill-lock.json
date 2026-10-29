@@ -1,0 +1,557 @@
+{
+  "version": 3,
+  "skills": {
+    "animate": {
+      "source": "emilkowalski/skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skill.git",
+      "skillPath": "skills/animate/SKILL.md",
+      "skillFolderHash": "a92e36f28d741aee4ff77d1a001300d7e86e07fe",
+      "installedAt": "2026-10-02T17:42:43.753Z",
+      "updatedAt": "2026-10-02T17:42:43.753Z"
+    },
+    "animate-expo": {
+      "source": "emilkowalski/skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skill.git",
+      "skillPath": "skills/animate-expo/SKILL.md",
+      "skillFolderHash": "6874701c790c7e74926ccd0a8716647a81424c85",
+      "installedAt": "2026-10-02T17:42:43.757Z",
+      "updatedAt": "2026-10-02T17:42:43.757Z"
+    },
+    "animation-vocabulary": {
+      "source": "emilkowalski/skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skill.git",
+      "skillPath": "skills/animation-vocabulary/SKILL.md",
+      "skillFolderHash": "d49565744427887a1f719de1ceee04d941d4e681",
+      "installedAt": "2026-10-02T17:42:43.758Z",
+      "updatedAt": "2026-10-02T17:42:43.758Z"
+    },
+    "apple-design": {
+      "source": "emilkowalski/skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skill.git",
+      "skillPath": "skills/apple-design/SKILL.md",
+      "skillFolderHash": "cd509ae729c86487d352e17a26651217a4c25711",
+      "installedAt": "2026-10-02T17:42:43.760Z",
+      "updatedAt": "2026-10-02T17:42:43.760Z"
+    },
+    "ask-sonner": {
+      "source": "emilkowalski/skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skill.git",
+      "skillPath": "skills/ask-sonner/SKILL.md",
+      "skillFolderHash": "aeca3dba0eb0415fa5a310cd6823b824fe60323d",
+      "installedAt": "2026-10-02T17:42:43.761Z",
+      "updatedAt": "2026-10-02T17:42:43.761Z"
+    },
+    "break-ui": {
+      "source": "emilkowalski/skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skill.git",
+      "skillPath": "skills/break-ui/SKILL.md",
+      "skillFolderHash": "f2a3441d4cf14df060ee363e155502a4818b5f8d",
+      "installedAt": "2026-10-02T17:42:43.762Z",
+      "updatedAt": "2026-10-02T17:42:43.762Z"
+    },
+    "emil-design-eng": {
+      "source": "emilkowalski/skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skill.git",
+      "skillPath": "skills/emil-design-eng/SKILL.md",
+      "skillFolderHash": "db7a20dc1d8ad26a0307dcb45ebc79fc372f5c69",
+      "installedAt": "2026-10-02T17:42:43.763Z",
+      "updatedAt": "2026-10-02T17:42:43.763Z"
+    },
+    "find-animation-opportunities": {
+      "source": "emilkowalski/skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skill.git",
+      "skillPath": "skills/find-animation-opportunities/SKILL.md",
+      "skillFolderHash": "e6443880f38e33cf78e5d678471eed35e8566763",
+      "installedAt": "2026-10-02T17:42:43.764Z",
+      "updatedAt": "2026-10-02T17:42:43.764Z"
+    },
+    "improve-animations": {
+      "source": "emilkowalski/skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skill.git",
+      "skillPath": "skills/improve-animations/SKILL.md",
+      "skillFolderHash": "cf1f7aabac34c08f2cf833f039fa99af2f415183",
+      "installedAt": "2026-10-02T17:42:43.766Z",
+      "updatedAt": "2026-10-02T17:42:43.766Z"
+    },
+    "mobile-native": {
+      "source": "emilkowalski/skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skill.git",
+      "skillPath": "skills/mobile-native/SKILL.md",
+      "skillFolderHash": "fdad6e6e91d8bbfda7164c7027269a8389dbadcd",
+      "installedAt": "2026-10-02T17:42:43.767Z",
+      "updatedAt": "2026-10-02T17:42:43.767Z"
+    },
+    "pick-ui-library": {
+      "source": "emilkowalski/skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skill.git",
+      "skillPath": "skills/pick-ui-library/SKILL.md",
+      "skillFolderHash": "370e19776f0aa2403a2edeed78266bd6a5d78036",
+      "installedAt": "2026-10-02T17:42:43.768Z",
+      "updatedAt": "2026-10-02T17:42:43.768Z"
+    },
+    "prototype": {
+      "source": "emilkowalski/skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skill.git",
+      "skillPath": "skills/prototype/SKILL.md",
+      "skillFolderHash": "34cd3a303aef0a975fcce3ac906d6b293e600399",
+      "installedAt": "2026-10-02T17:42:43.769Z",
+      "updatedAt": "2026-10-02T17:42:43.769Z"
+    },
+    "review-animations": {
+      "source": "emilkowalski/skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skill.git",
+      "skillPath": "skills/review-animations/SKILL.md",
+      "skillFolderHash": "0e0d3cb3e07ca307fe946ccaf57f6c82eb75124a",
+      "installedAt": "2026-10-02T17:42:43.771Z",
+      "updatedAt": "2026-10-02T17:42:43.771Z"
+    },
+    "write-swift": {
+      "source": "emilkowalski/skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/emilkowalski/skill.git",
+      "skillPath": "skills/write-swift/SKILL.md",
+      "skillFolderHash": "bdefda3891d347b8a183bdc727e4a1de2be3c82b",
+      "installedAt": "2026-10-02T17:42:43.773Z",
+      "updatedAt": "2026-10-02T17:42:43.773Z"
+    },
+    "framer-motion-animator": {
+      "source": "patricio0312rev/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/patricio0312rev/skills.git",
+      "skillPath": "frontend/framer-motion-animator/SKILL.md",
+      "skillFolderHash": "6a87b2e36a814f630f15f887efa28a19094ee45c",
+      "installedAt": "2026-10-04T15:20:30.519Z",
+      "updatedAt": "2026-10-04T15:20:30.519Z"
+    },
+    "21st-ai": {
+      "source": "21st-dev/skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/21st-dev/skill.git",
+      "skillPath": "skills/21st-ai/SKILL.md",
+      "skillFolderHash": "7d592fae30e9b4b8025bf74daf4b3b33365ff7de",
+      "installedAt": "2026-10-04T15:21:10.210Z",
+      "updatedAt": "2026-10-04T15:21:10.210Z"
+    },
+    "seo-audit": {
+      "source": "coreyhaines31/marketingskills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills.git",
+      "skillPath": "skills/seo-audit/SKILL.md",
+      "skillFolderHash": "88e419e823dc951fc243243ec91e888c5088f7f1",
+      "installedAt": "2026-10-05T23:28:39.360Z",
+      "updatedAt": "2026-10-05T23:28:39.360Z"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/skills.git",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "skillFolderHash": "76a98a285cb0434f3d39e1a873823556330e398b",
+      "installedAt": "2026-10-06T02:35:10.521Z",
+      "updatedAt": "2026-10-06T02:35:10.521Z"
+    },
+    "vercel-react-best-practices": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills.git",
+      "skillPath": "skills/react-best-practices/SKILL.md",
+      "skillFolderHash": "343db72180d05814949fef7d46be96b5c6ee86b3",
+      "installedAt": "2026-10-06T20:29:31.238Z",
+      "updatedAt": "2026-10-06T20:29:31.238Z"
+    },
+    "web-perf": {
+      "source": "cloudflare/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/cloudflare/skills.git",
+      "skillPath": "skills/web-perf/SKILL.md",
+      "skillFolderHash": "c4c15a909ae86c00d4fbf841238bbf56eb505ac8",
+      "installedAt": "2026-10-06T20:30:19.418Z",
+      "updatedAt": "2026-10-06T20:30:19.418Z"
+    },
+    "performance-optimization": {
+      "source": "addyosmani/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills.git",
+      "skillPath": "skills/performance-optimization/SKILL.md",
+      "skillFolderHash": "c0cf6ae718e8552be7538a1cb6ea7f941a273359",
+      "installedAt": "2026-10-06T20:31:55.003Z",
+      "updatedAt": "2026-10-06T20:31:55.003Z"
+    },
+    "ai-seo": {
+      "source": "coreyhaines31/marketingskills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills.git",
+      "skillPath": "skills/ai-seo/SKILL.md",
+      "skillFolderHash": "6a2e6afae83d0b6644cfe7e5749101a847f185e1",
+      "installedAt": "2026-10-06T20:32:09.006Z",
+      "updatedAt": "2026-10-06T20:32:09.006Z"
+    },
+    "seo": {
+      "source": "addyosmani/web-quality-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/addyosmani/web-quality-skills.git",
+      "skillPath": "skills/seo/SKILL.md",
+      "skillFolderHash": "da1d9c981518b28eded931b8680c2e4c631740af",
+      "installedAt": "2026-10-06T20:32:16.372Z",
+      "updatedAt": "2026-10-06T20:32:16.372Z"
+    },
+    "frontend-design": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/frontend-design/SKILL.md",
+      "skillFolderHash": "d79e2a5bb4df4a386c2adcdd9ab8709bba28c3f6",
+      "pluginName": "example-skills",
+      "installedAt": "2026-10-06T20:32:26.850Z",
+      "updatedAt": "2026-10-06T20:32:26.850Z"
+    },
+    "ui-ux-pro-max": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git",
+      "skillPath": ".claude/skills/ui-ux-pro-max/SKILL.md",
+      "skillFolderHash": "0b6619c11598d7ce32041044cb2e6fc6adea1efc",
+      "installedAt": "2026-10-06T20:32:39.855Z",
+      "updatedAt": "2026-10-06T20:32:39.855Z"
+    },
+    "threejs-fundamentals": {
+      "source": "cloudai-x/threejs-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/cloudai-x/threejs-skills.git",
+      "skillPath": "skills/threejs-fundamentals/SKILL.md",
+      "skillFolderHash": "918e26abdcc434d3ef7563043a25a97a6209b411",
+      "installedAt": "2026-10-06T20:32:46.679Z",
+      "updatedAt": "2026-10-06T20:32:46.679Z"
+    },
+    "threejs-animation": {
+      "source": "cloudai-x/threejs-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/cloudai-x/threejs-skills.git",
+      "skillPath": "skills/threejs-animation/SKILL.md",
+      "skillFolderHash": "0e5c91a99a4838307f8a46d8178d6cd2e0fd3af0",
+      "installedAt": "2026-10-06T20:32:53.287Z",
+      "updatedAt": "2026-10-06T20:32:53.287Z"
+    },
+    "gsap-core": {
+      "source": "greensock/gsap-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/greensock/gsap-skills.git",
+      "skillPath": "skills/gsap-core/SKILL.md",
+      "skillFolderHash": "135754edd728103e329a8df8b471b197375b370e",
+      "installedAt": "2026-10-06T20:33:05.253Z",
+      "updatedAt": "2026-10-06T20:33:05.253Z"
+    },
+    "gsap-scrolltrigger": {
+      "source": "greensock/gsap-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/greensock/gsap-skills.git",
+      "skillPath": "skills/gsap-scrolltrigger/SKILL.md",
+      "skillFolderHash": "7838f515e05bfab0a79dd63368a409ddc7d76ee6",
+      "installedAt": "2026-10-06T20:33:12.942Z",
+      "updatedAt": "2026-10-06T20:33:12.942Z"
+    },
+    "gsap-timeline": {
+      "source": "greensock/gsap-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/greensock/gsap-skills.git",
+      "skillPath": "skills/gsap-timeline/SKILL.md",
+      "skillFolderHash": "37eb5d623c3e14367864d57160acb64f13950994",
+      "installedAt": "2026-10-06T20:33:19.543Z",
+      "updatedAt": "2026-10-06T20:33:19.543Z"
+    },
+    "gsap-performance": {
+      "source": "greensock/gsap-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/greensock/gsap-skills.git",
+      "skillPath": "skills/gsap-performance/SKILL.md",
+      "skillFolderHash": "34dec2f051872f8d02df06de97450e448bac9c5e",
+      "installedAt": "2026-10-06T20:33:25.785Z",
+      "updatedAt": "2026-10-06T20:33:25.785Z"
+    },
+    "vercel-react-view-transitions": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills.git",
+      "skillPath": "skills/react-view-transitions/SKILL.md",
+      "skillFolderHash": "13063dbbfc1b085cbc11b9bd5d4324aa2f41bb3a",
+      "installedAt": "2026-10-06T20:33:32.518Z",
+      "updatedAt": "2026-10-06T20:33:32.518Z"
+    },
+    "chekhov-dramaturgy": {
+      "source": "jtydhr88/screenwriting-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/jtydhr88/screenwriting-skills.git",
+      "skillPath": "plugins/screenwriting/skills/chekhov-dramaturgy/SKILL.md",
+      "skillFolderHash": "23d867fa837c76900c5014910fc99d84132a7413",
+      "installedAt": "2026-10-14T16:54:40.379Z",
+      "updatedAt": "2026-10-14T16:54:40.379Z"
+    },
+    "ozu-screenplay-style": {
+      "source": "jtydhr88/screenwriting-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/jtydhr88/screenwriting-skills.git",
+      "skillPath": "plugins/screenwriting/skills/ozu-screenplay-style/SKILL.md",
+      "skillFolderHash": "a93a8ed31224480e0d6e6af68f21cd56e85e3e2f",
+      "installedAt": "2026-10-14T16:54:40.385Z",
+      "updatedAt": "2026-10-14T16:54:40.385Z"
+    },
+    "succession-series-writing": {
+      "source": "jtydhr88/screenwriting-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/jtydhr88/screenwriting-skills.git",
+      "skillPath": "plugins/screenwriting/skills/succession-series-writing/SKILL.md",
+      "skillFolderHash": "ea845451d2434314ed3e1a34a520cc9cf767ecad",
+      "installedAt": "2026-10-14T16:54:40.388Z",
+      "updatedAt": "2026-10-14T16:54:40.388Z"
+    },
+    "sw-american-case-studies": {
+      "source": "jtydhr88/screenwriting-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/jtydhr88/screenwriting-skills.git",
+      "skillPath": "plugins/screenwriting/skills/sw-american-case-studies/SKILL.md",
+      "skillFolderHash": "9424a540be5aef9a042111b78635476767482681",
+      "installedAt": "2026-10-14T16:54:40.391Z",
+      "updatedAt": "2026-10-14T16:54:40.391Z"
+    },
+    "sw-character-conflict": {
+      "source": "jtydhr88/screenwriting-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/jtydhr88/screenwriting-skills.git",
+      "skillPath": "plugins/screenwriting/skills/sw-character-conflict/SKILL.md",
+      "skillFolderHash": "85e4b83e26746c47102d46e5acb0fe94ccb38d90",
+      "installedAt": "2026-10-14T16:54:40.393Z",
+      "updatedAt": "2026-10-14T16:54:40.393Z"
+    },
+    "sw-chinese-opera-banqiang": {
+      "source": "jtydhr88/screenwriting-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/jtydhr88/screenwriting-skills.git",
+      "skillPath": "plugins/screenwriting/skills/sw-chinese-opera-banqiang/SKILL.md",
+      "skillFolderHash": "1dc2ee6460f08f830a08658d524c16c915e86228",
+      "installedAt": "2026-10-14T16:54:40.396Z",
+      "updatedAt": "2026-10-14T16:54:40.396Z"
+    },
+    "sw-chinese-opera-banqiang-cases": {
+      "source": "jtydhr88/screenwriting-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/jtydhr88/screenwriting-skills.git",
+      "skillPath": "plugins/screenwriting/skills/sw-chinese-opera-banqiang-cases/SKILL.md",
+      "skillFolderHash": "fa2e87fc4d4b0722c19602bedd31ad1af4a3203e",
+      "installedAt": "2026-10-14T16:54:40.399Z",
+      "updatedAt": "2026-10-14T16:54:40.399Z"
+    },
+    "sw-chinese-opera-qupai": {
+      "source": "jtydhr88/screenwriting-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/jtydhr88/screenwriting-skills.git",
+      "skillPath": "plugins/screenwriting/skills/sw-chinese-opera-qupai/SKILL.md",
+      "skillFolderHash": "0aefe56adf665a56040d8d7f2fc1080b86ea656e",
+      "installedAt": "2026-10-14T16:54:40.401Z",
+      "updatedAt": "2026-10-14T16:54:40.401Z"
+    },
+    "sw-chinese-opera-qupai-cases": {
+      "source": "jtydhr88/screenwriting-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/jtydhr88/screenwriting-skills.git",
+      "skillPath": "plugins/screenwriting/skills/sw-chinese-opera-qupai-cases/SKILL.md",
+      "skillFolderHash": "6143dc14c77db10f4610884f13bb7028cd840eaf",
+      "installedAt": "2026-10-14T16:54:40.404Z",
+      "updatedAt": "2026-10-14T16:54:40.404Z"
+    },
+    "sw-chinese-series-practice": {
+      "source": "jtydhr88/screenwriting-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/jtydhr88/screenwriting-skills.git",
+      "skillPath": "plugins/screenwriting/skills/sw-chinese-series-practice/SKILL.md",
+      "skillFolderHash": "7b935b6f7274725242de8da7a810714d592ec118",
+      "installedAt": "2026-10-14T16:54:40.406Z",
+      "updatedAt": "2026-10-14T16:54:40.406Z"
+    },
+    "sw-dialogue": {
+      "source": "jtydhr88/screenwriting-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/jtydhr88/screenwriting-skills.git",
+      "skillPath": "plugins/screenwriting/skills/sw-dialogue/SKILL.md",
+      "skillFolderHash": "fc3becacb0887e8fdf794c44163ab7ac87e3af9f",
+      "installedAt": "2026-10-14T16:54:40.407Z",
+      "updatedAt": "2026-10-14T16:54:40.407Z"
+    },
+    "sw-format-adaptation": {
+      "source": "jtydhr88/screenwriting-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/jtydhr88/screenwriting-skills.git",
+      "skillPath": "plugins/screenwriting/skills/sw-format-adaptation/SKILL.md",
+      "skillFolderHash": "c53d6418825eccac740bc07233d6b6957bf7224f",
+      "installedAt": "2026-10-14T16:54:40.409Z",
+      "updatedAt": "2026-10-14T16:54:40.409Z"
+    },
+    "sw-genre-anatomy": {
+      "source": "jtydhr88/screenwriting-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/jtydhr88/screenwriting-skills.git",
+      "skillPath": "plugins/screenwriting/skills/sw-genre-anatomy/SKILL.md",
+      "skillFolderHash": "69b676322cd5bfb2074bfa83afba69d3192dedd2",
+      "installedAt": "2026-10-14T16:54:40.411Z",
+      "updatedAt": "2026-10-14T16:54:40.411Z"
+    },
+    "sw-industry-business": {
+      "source": "jtydhr88/screenwriting-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/jtydhr88/screenwriting-skills.git",
+      "skillPath": "plugins/screenwriting/skills/sw-industry-business/SKILL.md",
+      "skillFolderHash": "a03af632e89c232bc67bdb36d5dce2926953726b",
+      "installedAt": "2026-10-14T16:54:40.414Z",
+      "updatedAt": "2026-10-14T16:54:40.414Z"
+    },
+    "sw-japanese-screenwriting": {
+      "source": "jtydhr88/screenwriting-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/jtydhr88/screenwriting-skills.git",
+      "skillPath": "plugins/screenwriting/skills/sw-japanese-screenwriting/SKILL.md",
+      "skillFolderHash": "1bf153ec929a8b540e2309f5bb217f1df48b240e",
+      "installedAt": "2026-10-14T16:54:40.416Z",
+      "updatedAt": "2026-10-14T16:54:40.416Z"
+    },
+    "sw-korean-french-screenwriting": {
+      "source": "jtydhr88/screenwriting-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/jtydhr88/screenwriting-skills.git",
+      "skillPath": "plugins/screenwriting/skills/sw-korean-french-screenwriting/SKILL.md",
+      "skillFolderHash": "b7b0826700d59f93c2524f8ece5ad1b10e660034",
+      "installedAt": "2026-10-14T16:54:40.418Z",
+      "updatedAt": "2026-10-14T16:54:40.418Z"
+    },
+    "sw-premise-theme": {
+      "source": "jtydhr88/screenwriting-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/jtydhr88/screenwriting-skills.git",
+      "skillPath": "plugins/screenwriting/skills/sw-premise-theme/SKILL.md",
+      "skillFolderHash": "6d3a7365debaa64772600d599a445b1f8e70d54f",
+      "installedAt": "2026-10-14T16:54:40.421Z",
+      "updatedAt": "2026-10-14T16:54:40.421Z"
+    },
+    "sw-scene-craft": {
+      "source": "jtydhr88/screenwriting-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/jtydhr88/screenwriting-skills.git",
+      "skillPath": "plugins/screenwriting/skills/sw-scene-craft/SKILL.md",
+      "skillFolderHash": "adf7838b891fb5f955d6c3c9a6725de13aa1e8a3",
+      "installedAt": "2026-10-14T16:54:40.423Z",
+      "updatedAt": "2026-10-14T16:54:40.423Z"
+    },
+    "sw-series-case-studies": {
+      "source": "jtydhr88/screenwriting-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/jtydhr88/screenwriting-skills.git",
+      "skillPath": "plugins/screenwriting/skills/sw-series-case-studies/SKILL.md",
+      "skillFolderHash": "e322fb0ecb222c738e5a3507928a4deadc173775",
+      "installedAt": "2026-10-14T16:54:40.425Z",
+      "updatedAt": "2026-10-14T16:54:40.425Z"
+    },
+    "sw-series-engine-bible": {
+      "source": "jtydhr88/screenwriting-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/jtydhr88/screenwriting-skills.git",
+      "skillPath": "plugins/screenwriting/skills/sw-series-engine-bible/SKILL.md",
+      "skillFolderHash": "14eb6bc3abf44bcb52017730f1af845c3853f3d1",
+      "installedAt": "2026-10-14T16:54:40.427Z",
+      "updatedAt": "2026-10-14T16:54:40.427Z"
+    },
+    "sw-series-structure": {
+      "source": "jtydhr88/screenwriting-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/jtydhr88/screenwriting-skills.git",
+      "skillPath": "plugins/screenwriting/skills/sw-series-structure/SKILL.md",
+      "skillFolderHash": "8f6f9fb239b754b47408da1a51f8d53afd7c0dcd",
+      "installedAt": "2026-10-14T16:54:40.428Z",
+      "updatedAt": "2026-10-14T16:54:40.428Z"
+    },
+    "sw-sitcom-comedy": {
+      "source": "jtydhr88/screenwriting-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/jtydhr88/screenwriting-skills.git",
+      "skillPath": "plugins/screenwriting/skills/sw-sitcom-comedy/SKILL.md",
+      "skillFolderHash": "538ba80ff9d49d27064a9475ed1b7c634c78cb66",
+      "installedAt": "2026-10-14T16:54:40.430Z",
+      "updatedAt": "2026-10-14T16:54:40.430Z"
+    },
+    "sw-story-structure": {
+      "source": "jtydhr88/screenwriting-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/jtydhr88/screenwriting-skills.git",
+      "skillPath": "plugins/screenwriting/skills/sw-story-structure/SKILL.md",
+      "skillFolderHash": "19e2763f2499bffb7d5fa2f0d27acbedf9c8f445",
+      "installedAt": "2026-10-14T16:54:40.432Z",
+      "updatedAt": "2026-10-14T16:54:40.432Z"
+    },
+    "sw-truby-anatomy": {
+      "source": "jtydhr88/screenwriting-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/jtydhr88/screenwriting-skills.git",
+      "skillPath": "plugins/screenwriting/skills/sw-truby-anatomy/SKILL.md",
+      "skillFolderHash": "6bc41b458f05f61c2048d3614a53269071b670b4",
+      "installedAt": "2026-10-14T16:54:40.433Z",
+      "updatedAt": "2026-10-14T16:54:40.433Z"
+    },
+    "sw-workflow": {
+      "source": "jtydhr88/screenwriting-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/jtydhr88/screenwriting-skills.git",
+      "skillPath": "plugins/screenwriting/skills/sw-workflow/SKILL.md",
+      "skillFolderHash": "cddb025c19290e53294255b2076f1fc00454a173",
+      "installedAt": "2026-10-14T16:54:40.435Z",
+      "updatedAt": "2026-10-14T16:54:40.435Z"
+    },
+    "sw-writers-room": {
+      "source": "jtydhr88/screenwriting-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/jtydhr88/screenwriting-skills.git",
+      "skillPath": "plugins/screenwriting/skills/sw-writers-room/SKILL.md",
+      "skillFolderHash": "e3dae74c31385047016509310706987e03c23ef5",
+      "installedAt": "2026-10-14T16:54:40.436Z",
+      "updatedAt": "2026-10-14T16:54:40.436Z"
+    },
+    "video": {
+      "source": "smixs/visual-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/smixs/visual-skills.git",
+      "skillPath": "video/SKILL.md",
+      "skillFolderHash": "649ea513d690d31e05099e234d0d061cfca8b54d",
+      "pluginName": "visual-skills",
+      "installedAt": "2026-10-14T16:54:50.223Z",
+      "updatedAt": "2026-10-14T16:54:50.223Z"
+    }
+  },
+  "dismissed": {
+    "findSkillsPrompt": true
+  },
+  "lastSelectedAgents": [
+    "amp",
+    "cline",
+    "codex",
+    "cursor",
+    "droid",
+    "gemini-cli",
+    "github-copilot",
+    "kilo",
+    "kimi-code-cli",
+    "opencode",
+    "pi",
+    "warp",
+    "zed",
+    "claude-code"
+  ]
+}

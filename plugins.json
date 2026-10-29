@@ -1,0 +1,7 @@
+[
+  { "plugin": "impeccable@impeccable",          "source": "pbakaus/impeccable" },
+  { "plugin": "taste-skill@taste-skill",        "source": "Leonxlnx/taste-skill" },
+  { "plugin": "figma@claude-plugins-official",  "source": "anthropics/claude-plugins-official" },
+  { "plugin": "ecc@ecc",                        "source": "https://github.com/affaan-m/ECC.git" },
+  { "plugin": "claudex-loop@claudex-loop",      "source": "chaseai-yt/claudex-loop" }
+]
