@@ -11,6 +11,9 @@ Mis skills y plugins de Claude Code, listos para llevarlos a otro equipo.
 | `scripts/export.py` | Vuelve a copiar las skills de este PC al repo y regenera `SKILLS.md` |
 | `skill-lock.json` | Registro de `npx skills` (de qué repo salió cada skill) |
 | `MANUAL-HERRAMIENTAS.md` | Manual paso a paso para instalar Git, Node, Python, VS Code, Claude Code, etc. |
+| `MANUAL-FRAMEWORKS.md` | Crear proyectos paso a paso: React, Next.js, Vue, Angular, Expo, Flutter, FastAPI, Django, Laravel, Spring Boot, Tauri… |
+| `Manual-Desarrollo.docx` | Los dos manuales juntos en Word (con portada e índice) |
+| `scripts/md2docx.js` | Regenera el Word desde los `.md` (`npm i docx` y luego `node scripts/md2docx.js Manual-Desarrollo.docx MANUAL-HERRAMIENTAS.md MANUAL-FRAMEWORKS.md`) |
 
 ---
 
