@@ -281,8 +281,8 @@ claude doctor
 Hace falta tener **Git (1)** y **Claude Code (6)**. Python no hace falta para instalar.
 
 ```powershell
-git clone https://github.com/TU_USUARIO/claude-setup.git
-cd claude-setup
+git clone https://github.com/ravivanco/apps.git
+cd apps
 powershell -ExecutionPolicy Bypass -File .\install.ps1      # macOS/Linux: bash install.sh
 ```
 Cierra y vuelve a abrir Claude Code, y escribe `/` para ver las skills. Más detalles en `README.md`.

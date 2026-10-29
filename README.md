@@ -16,10 +16,10 @@ Mis skills y plugins de Claude Code, listos para llevarlos a otro equipo.
 
 ## A. En este PC: subir a GitHub (una sola vez)
 
-1. Crea un repo **privado** vacío en https://github.com/new (por ejemplo `claude-setup`, sin README).
+1. Crea un repo **privado** vacío en https://github.com/new (`apps`, ya creado).
 2. En esta carpeta:
    ```powershell
-   git remote add origin https://github.com/TU_USUARIO/claude-setup.git
+   git remote add origin https://github.com/ravivanco/apps.git
    git push -u origin main
    ```
 
@@ -36,8 +36,8 @@ git push
 1. Instala **Git** y **Claude Code** (ver `MANUAL-HERRAMIENTAS.md`) e inicia sesión en Claude (`claude`, luego `/login`).
 2. Clona el repo:
    ```powershell
-   git clone https://github.com/TU_USUARIO/claude-setup.git
-   cd claude-setup
+   git clone https://github.com/ravivanco/apps.git
+   cd apps
    ```
 3. Instala:
    - **Windows:** `powershell -ExecutionPolicy Bypass -File .\install.ps1`
